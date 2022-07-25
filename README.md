@@ -1,4 +1,4 @@
-## [Project 1: Bellabeat](https://github.com/HienThNg/HienThNg.github.io)
+## [Project 1: Bellabeat Case Study](https://github.com/HienThNg/HienThNg.github.io)
 
 ### How Can a Wellness Technology Company Play It Smart?
 
