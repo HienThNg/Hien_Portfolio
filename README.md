@@ -1,6 +1,6 @@
 # [Project 1: Bellabeat](https://github.com/HienThNg/HienThNg.github.io)
 
-*How Can a Wellness Technology Company Play It Smart?*
+## How Can a Wellness Technology Company Play It Smart?*
 
 This is my capture project for Google Data Analytics Professional Certificate.
 
