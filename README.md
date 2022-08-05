@@ -29,3 +29,11 @@ I followed the construction and tutorial of [**"Ứng Dụng Lập Trình Python
 My documentations and small projects that I was working to learn Python.
 
 I learned them from [**"CodeXplore"** youtube channer](https://www.youtube.com/c/CodeXplore) and "Data Science and Machine Learning" course of University of Science - VNUHCM.
+
+## [Project 4: Titanic_Kaggle](https://github.com/HienThNg/Project-Titanic_Kaggle/blob/main/README.md)
+
+A project from Kaggle to learn Machine Learning.
+
+The challenge of this project is to build a predictive model that answers the question: “what sorts of people were more likely to survive?”.
+
+I am currently working on it.
