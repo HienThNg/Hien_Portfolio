@@ -24,12 +24,6 @@ This is my first project while learning Python for Data Science, Data Visualizat
 
 I followed the construction and tutorial of [**"Ứng Dụng Lập Trình Python"** youtube channer](https://www.youtube.com/watch?v=VH2JgqlN2so&list=PLRGmLRJmVS5jOMW-IFhuA6PUA1257f070&index=4&t=379s&ab_channel=%E1%BB%A8ngD%E1%BB%A5ngL%E1%BA%ADpTr%C3%ACnhPython) to build this project.
 
-## [Python Learning](https://github.com/HienThNg/Python_Learning)
-
-My documentations and small projects that I was working to learn Python.
-
-I learned them from [**"CodeXplore"** youtube channer](https://www.youtube.com/c/CodeXplore) and "Data Science and Machine Learning" course of University of Science - VNUHCM.
-
 ## [Project 4: Titanic_Kaggle](https://github.com/HienThNg/Project-Titanic_Kaggle/blob/main/README.md)
 
 A project from Kaggle to learn Machine Learning.
@@ -37,3 +31,10 @@ A project from Kaggle to learn Machine Learning.
 The challenge of this project is to build a predictive model that answers the question: “what sorts of people were more likely to survive?”.
 
 I am currently working on it.
+
+## [Python Learning](https://github.com/HienThNg/Python_Learning)
+
+My documentations and small projects that I was working to learn Python.
+
+I learned them from [**"CodeXplore"** youtube channer](https://www.youtube.com/c/CodeXplore) and "Data Science and Machine Learning" course of University of Science - VNUHCM.
+
