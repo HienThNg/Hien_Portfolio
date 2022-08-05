@@ -17,3 +17,9 @@ The datasets are gathered by surveys. 
 After eliminating unsatisfactory samples, my team and I decided to collect 525 samples for "Young Economist 2019" and 895 samples for "Eureka 2019".
 
 My Eureka research was published [here](https://drive.google.com/file/d/1OTXpAeVf1gN-Ukf0iv93hcoVStMsDT6x/view) on page 191.
+
+## [Project 3: Annual Sale 2019](https://github.com/HienThNg/Project-Annual_Sale_2019)
+
+This is my first project while learning Python for Data Science, Data Visualization and Machine Learning.
+
+I followed the construction and tutorial of ['Ứng Dụng Lập Trình Python' youtube channel](https://www.youtube.com/watch?v=VH2JgqlN2so&list=PLRGmLRJmVS5jOMW-IFhuA6PUA1257f070&index=4&t=379s&ab_channel=%E1%BB%A8ngD%E1%BB%A5ngL%E1%BA%ADpTr%C3%ACnhPython) to build this project.
